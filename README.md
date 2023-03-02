@@ -3,5 +3,5 @@ Python script to utilize OpenAI's API from the command line
 
 save the file  
 add your api key to the file  
-save  
-run  
+save 
+run - python3 CLchatGPT.py
