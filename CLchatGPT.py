@@ -1,7 +1,7 @@
 import openai
 
 # Initialize the API client
-openai.api_key = "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"
+openai.api_key = "your-api-key"
 
 # Set the engine and model for the chatbot
 engine = "text-davinci-003"
